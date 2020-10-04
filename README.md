@@ -1,4 +1,4 @@
-Supporting code for "Automate unit testing with Github Actions for research codes" waterprogramming blog. 
+Supporting code for "Automate unit testing with Github Actions for research codes" waterprogramming blog. https://waterprogramming.wordpress.com/2020/10/05/automate-unit-testing-with-github-actions-for-research-codes/
 
 # lake/
 Includes two implementations of the Lake Model DPS formulation (Quinn et al. 2017)
