@@ -2,6 +2,7 @@
 Unit tests for the Lake Model.
 '''
 
+import sys
 import unittest
 from lake.lakemodel import lake, rbf
 
