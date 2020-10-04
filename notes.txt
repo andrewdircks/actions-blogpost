@@ -1,0 +1,22 @@
+- what example code am I using? what language? 
+- what tests am I going to run?
+- can I include statistical tests?
+
+
+General:
+- keep it simple
+- give brief intro to source control and git
+- what is github actions
+- explain the most common use cases (CI/CD in devops)
+- explain the usefullness in research code development, specifically TEAMS
+
+
+ideas for example code
+- lake model
+  - deveoping the model, running the tests, continual workflow with everyone 
+  - example, configuration with Numba? how would this work?
+  - optimizing in Python 
+X pyborg (not released)
+X platypus or rhodium (these workflows exist though ... )
+X MOEAFramework (alredy exists, not applicable)
+X waterpaths (too complicated and fucked up rn)
